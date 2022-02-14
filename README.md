@@ -1,0 +1,3 @@
+- 👋 Hi, I’m wenju
+- Work place:shanghai
+- Skill:Android,iOS,flutter,vue,Wechat Mini Program...
